@@ -6,4 +6,4 @@
 4. if you not have node.js you must install this https://nodejs.org/en/
 5. when bot will be online type n!help on chat to see all commands!
 
-Privileged Gateway Intents >> ![image](https://user-images.githubusercontent.com/66698690/118170577-894bbb80-b42a-11eb-9f0e-cfa8e59f2b74.png)
+![image](https://user-images.githubusercontent.com/66698690/118170577-894bbb80-b42a-11eb-9f0e-cfa8e59f2b74.png)
