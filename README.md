@@ -1,6 +1,6 @@
 # discordjs-nukebot
 
-1. edit the #39 line with your bot token >> https://discord.com/developers/applications/
+1. edit the #40 line with your bot token >> https://discord.com/developers/applications/
 2. go to your application > bot and select all Privileged Gateway Intents options
 3. start installmodules.bat to install modules
 4. if you not have node.js you must install this on https://nodejs.org/en/
